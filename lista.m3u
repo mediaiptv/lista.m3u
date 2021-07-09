@@ -1,0 +1,11 @@
+# EXTM3U
+#PLAYLISTV: pltv-logo = "http://vignette1.wikia.nocookie.net/thebatmanfanon/images/2/2f/Batman_rect-500x500.jpg" pltv-name = "LUKARIO TESTE" pltv-description = "LISTA DE SÉRIES E FILMES "pltv-cover =" https://s3.amazonaws.com/gumroad/files/69681cbdfc664ab19581255368220afc/original/1914665small.jpg "pltv-author =" Heitor Ferreira da Mota "pltv-site =" XXX XXX "pltv- email = "XXX XXX"
+
+
+####################### XXXX filmes XXXX #############################
+
+#EXTINF: -1 tvg-logo = "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lWQ3hI78Az2RHfzDpEuvougqUz7.jpg" group-title = "filmes" pltv-subgroup = "Dragon Ball", A Guerra do Amanhã 
+https://www.googleapis.com/drive/v3/files/1L1nVOSp2dl8nlX_8T3U5t7uZqhszDuuM?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
+#EXTINF: -1 tvg-logo = "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wAJniojhHa4oVKa9AxdNwvpmS74.jpg" group-title = "filmes" pltv-subgroup = "Dragon Ball", Na Mira do Perigo
+https://www.googleapis.com/drive/v3/files/16B-VZJdF4SC4Pa6HmmqQ1HkfoRPhtmH3?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
